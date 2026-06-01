@@ -1,3 +1,6 @@
 # Dự đoán quỹ đạo của bão nhiệt đới trên biển Đông
 
 Data source: https://drive.google.com/drive/folders/1kHfkqTIZPNSIMwGoPx5IAZ8GvtUVt_zv?usp=sharing
+Hàng năm, khu vực Biển Đông ghi nhận sự xuất hiện của nhiều cơn bão và áp thấp nhiệt đới với quỹ đạo và cường độ khác nhau. Các hiện tượng này thường đi kèm với gió mạnh, mưa lớn, nước dâng ven biển và nhiều hình thái thời tiết cực đoan khác, gây ra những thiệt hại đáng kể về người, tài sản và cơ sở hạ tầng tại các quốc gia ven biển. Do nằm trên đường di chuyển của nhiều cơn bão thuộc vùng Tây Bắc Thái Bình Dương, Biển Đông luôn được xem là một trong những khu vực trọng điểm trong công tác theo dõi và dự báo bão nhiệt đới.
+Quá trình hình thành và phát triển của bão chịu tác động đồng thời bởi nhiều yếu tố khí tượng như nhiệt độ mặt biển, áp suất khí quyển, độ ẩm và trường gió ở các tầng khí quyển khác nhau. Sự tương tác phức tạp giữa các yếu tố này khiến quỹ đạo bão có thể thay đổi đáng kể theo thời gian, làm gia tăng khó khăn cho công tác dự báo. Vì vậy, việc nghiên cứu đặc điểm hoạt động của bão cũng như ứng dụng các phương pháp học sâu trong dự báo hướng đi của bão đang trở thành một hướng nghiên cứu quan trọng nhằm nâng cao hiệu quả cảnh báo sớm và giảm thiểu thiệt hại do thiên tai gây ra. 
+
